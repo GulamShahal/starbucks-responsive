@@ -1,0 +1,85 @@
+body{
+  font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.navbar-nav a{
+    letter-spacing: 1px;
+}
+.navbar-nav a:hover {
+    color: #00754a !important;
+}
+.navbar-nav .btn1:hover {
+   background-color: #e3e3e3 !important;
+}
+.navbar-nav .btn2:hover{
+    background-color: #393838 !important;
+ }
+ .sec1 {
+    background-color: #d50032;
+  }
+  .line:hover {
+    text-decoration: none !important;
+    cursor: pointer;
+  }
+  sub{
+    vertical-align:super;
+    font-size: 10px;
+  }
+  .sec2 {
+    background-color: #d50032;
+  }
+.sec2 button {
+    background-color: transparent;
+}
+.sec2 button:hover {
+    background-color: #ff4f4f;
+    cursor: pointer;
+}
+.sec3 {
+    background-color: #d50032;
+  }
+.sec3 button {
+    background-color: transparent;
+}
+.sec3 button:hover {
+    background-color: #ff4f4f;
+    cursor: pointer;
+}
+.sec4 {
+    background-color: rgba(75, 180, 158, 0.954) !important;
+    color: 1e3932;
+  }
+.sec4 button {
+    background-color: transparent;
+    color:1e3932 ;
+    border: 1px solid;
+    border-color:1e3932 ;
+}
+.sec4 button:hover {
+    background-color: rgba(3, 164, 129, 0.836);
+    cursor: pointer;
+}
+.sec5 {
+    background-color: rgb(1, 47, 37);
+  }
+.sec5 button {
+    background-color: transparent;
+}
+.sec5 button:hover {
+    background-color:rgba(0, 116, 91, 0.836);
+    cursor: pointer;
+}
+.sec6 {
+    background-color: #d50032;
+  }
+.sec6 button {
+    background-color: transparent;
+}
+.sec6 button:hover {
+    background-color:#cd0b38;
+    cursor: pointer;
+}
+.asd:hover{
+    color: black !important;
+}
